@@ -3,3 +3,5 @@
 
 # ignore crawled posts
 **/posts/
+.vscode/
+__pycache__/
