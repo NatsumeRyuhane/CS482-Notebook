@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 .DS_Store
+
+# ignore crawled posts
+**/posts/
+.vscode/
+__pycache__/
